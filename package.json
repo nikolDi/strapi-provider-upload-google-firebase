@@ -1,0 +1,33 @@
+{
+  "name": "strapi-provider-upload-google-firebase",
+  "version": "2.0.1",
+  "description": "NPM package for uploading and storing media files in Firebase Storage",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolDi/strapi-provider-upload-google-firebase.git"
+  },
+  "keywords": [
+    "strapi",
+    "upload",
+    "provider",
+    "google",
+    "firebase"
+  ],
+  "strapi": {
+    "isProvider": true
+  },
+  "author": "Dima Nykoliuk (NikolDi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikolDi/strapi-provider-upload-google-firebase/issues"
+  },
+  "homepage": "https://github.com/nikolDi/strapi-provider-upload-google-firebase#readme",
+  "dependencies": {
+    "firebase": "^7.14.2",
+    "lodash": "^4.17.15"
+  }
+}
