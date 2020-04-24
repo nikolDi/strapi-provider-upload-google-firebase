@@ -20,7 +20,7 @@
   "strapi": {
     "isProvider": true
   },
-  "author": "Dima Nykoliuk (NikolDi)",
+  "author": "NikolDi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nikolDi/strapi-provider-upload-google-firebase/issues"
